@@ -41,12 +41,11 @@ font-family: 'Times New Roman', Times, serif;
     background-size: cover;
     display: flex;
     border-radius: 10px;
- 
-    button img{
-        height: 20px;
-        width: 20px;
-        
+    span{
+        font-size: 20px;
+        font-weight: 700;
     }
+ 
  h1{
     color: white;
     padding: 10px;
